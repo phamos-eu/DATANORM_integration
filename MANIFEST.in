@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include datanorm_integration *.css
+recursive-include datanorm_integration *.csv
+recursive-include datanorm_integration *.html
+recursive-include datanorm_integration *.ico
+recursive-include datanorm_integration *.js
+recursive-include datanorm_integration *.json
+recursive-include datanorm_integration *.md
+recursive-include datanorm_integration *.png
+recursive-include datanorm_integration *.py
+recursive-include datanorm_integration *.svg
+recursive-include datanorm_integration *.txt
+recursive-exclude datanorm_integration *.pyc
