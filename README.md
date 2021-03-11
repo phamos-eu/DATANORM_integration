@@ -6,4 +6,4 @@ DATANORM is an industrie standard used in the plumbing and sanitary business. Si
 
 #### License
 
-MIT
+GNU GPLv3
